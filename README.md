@@ -12,6 +12,8 @@
 * Run `nano multiplication-table.sh`
 
 ### Add the below script
+![](./img/Pasted%20image.png)
+
 ```bash
 #!/bin/bash
 
@@ -182,4 +184,11 @@ case $choice in
         ;;
 esac
 ```
+### Execute permision
+* Run `chmod +x multiplication-table.sh` to give user file execution rights.
 
+![](./img/Pasted%20image%20(2).png)
+
+* Run `./multiplication-table.sh` to execute our script
+
+![](./img/Pasted%20image%20(3).png)
