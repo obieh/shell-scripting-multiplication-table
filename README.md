@@ -11,7 +11,7 @@
 ### Create the script.
 * Run `nano multiplication-table.sh`
 
-### Add the below script
+### Add the below script.
 ![](./img/Pasted%20image.png)
 
 ```bash
