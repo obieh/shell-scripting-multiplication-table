@@ -8,7 +8,7 @@
 3. Validate the range of inputs and handle invalid or out-of-bound entries.
 4. Generate and display the multiplication table according to the specified range
 
-### Create the script
+### Create the script.
 * Run `nano multiplication-table.sh`
 
 ### Add the below script
