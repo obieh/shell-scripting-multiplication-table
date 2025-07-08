@@ -192,3 +192,5 @@ esac
 * Run `./multiplication-table.sh` to execute our script
 
 ![](./img/Pasted%20image%20(3).png)
+
+### The Script runs as desired.
