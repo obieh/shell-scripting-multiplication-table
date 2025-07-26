@@ -1,12 +1,12 @@
 # shell-scripting-multiplication-table
 ## A script that perform multiplication based on user input.
 
-### The script will perform the underlisted tasks
+### The script will perform the underlisted tasks.
 1. prompt user to enter a number for the multplication  table.
 2. Ask if user want a full or partial table.
   * if partial, prompt for start and end numbers of the range.
 3. Validate the range of inputs and handle invalid or out-of-bound entries.
-4. Generate and display the multiplication table according to the specified range
+4. Generate and display the multiplication table according to the specified range.
 
 ### Create the script.
 * Run `nano multiplication-table.sh`
